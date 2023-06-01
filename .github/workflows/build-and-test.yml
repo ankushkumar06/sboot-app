@@ -47,7 +47,7 @@ jobs:
     needs: build
 
     env:
-      NAME: Hello Hacks
+      NAME: GITHUB
 
     steps:
 
